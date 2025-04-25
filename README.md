@@ -95,10 +95,7 @@
   </a> &nbsp;&nbsp;
   
   <a href="https://www.linkedin.com/in/tienhuynh-tn/" target="_blank">
-    <img align="center" alt="TienHuynh-TN | Linkedin" width="24px" src="www.linkedin.com/in/
-vanesa-feris-9623a5308
-Nombre de la URL personalizada
-" />
+    <img align="center" alt="TienHuynh-TN | Linkedin" width="24px" src="www.linkedin.com/in/vanesa-feris-9623a5308" />
   </a> &nbsp;&nbsp;
   
   <a href="https://www.facebook.com/tienhuynh.tn/" target="_blank">
