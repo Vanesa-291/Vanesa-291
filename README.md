@@ -95,7 +95,7 @@
   </a> &nbsp;&nbsp;
   
   <a href="https://www.linkedin.com/in/tienhuynh-tn/" target="_blank">
-    <img align="center" alt="TienHuynh-TN | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+    <img align="center" alt="TienHuynh-TN | Linkedin" width="24px" src="" />
   </a> &nbsp;&nbsp;
   
   <a href="https://www.facebook.com/tienhuynh.tn/" target="_blank">
