@@ -5,7 +5,7 @@
 <img src="https://komarev.com/ghpvc/?username=Vanesa&color=brightgreen" alt="watching_count" />
  </p>
 	
-# 💫 About Me:
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
 <picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 400px></picture>
  <p align="left">
