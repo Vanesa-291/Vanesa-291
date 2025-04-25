@@ -87,7 +87,7 @@
 
 -----
 
-<h3 align="center" >Connect with me 🤝 </h3>
+## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> For More Information, Please Check Out or Connect Me Via
 
 <p align="center">
 
