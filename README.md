@@ -89,12 +89,7 @@
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> For More Information, Please Check Out or Connect Me Via
 
-<p align="center">
-<a href="https://www.syedammarilyas.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/syedammarilyas/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-vanesa feris-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/syedammarilyas/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-vaneferis-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:syedammarilyas@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-vaneferis15@gmail.com-blue?style=flat-square&logo=gmail"></a>
-</p>
+
 
 	
 
