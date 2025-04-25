@@ -38,11 +38,11 @@
 
 ## Technologies I know:
 
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
-![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery&logoColor=0769AD)
-![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
-![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
-![Electron](https://img.shields.io/badge/-Electron-000000?style=flat&logo=Electron&logoColor=FFFFFF)
+   ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
+   ![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery&logoColor=0769AD)
+   ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
+   ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
+   ![Electron](https://img.shields.io/badge/-Electron-000000?style=flat&logo=Electron&logoColor=FFFFFF)
   
 - **Front-End Development**:
 
@@ -54,10 +54,13 @@
 
 - **Softwares and Tools**:
 
-    <img src="https://user-images.githubusercontent.com/64439609/212556685-de9a7c04-31b0-43b6-af39-7c82ac13b321.png" width="40" height="40" alt="Git"/>
-    <img src="https://user-images.githubusercontent.com/64439609/212556741-81407849-82c8-4926-854f-820e8a644375.png" width="40" height="40" alt="Git"/>
-    <img src="https://user-images.githubusercontent.com/64439609/212556816-5f39489d-6cee-4f1c-997f-4d30a391287c.png" width="40" height="40" alt="Git"/>
-    <img src="https://user-images.githubusercontent.com/64439609/212556802-77a65ec1-aa71-4272-b603-1a57d1914678.png" width="40" height="40" alt="Git"/>
+    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+    ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
+    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  
+    
+    
 
 
 
