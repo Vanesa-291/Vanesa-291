@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 314" width="1000" height="314" role="img" aria-labelledby="t">
+  <title id="t">Tecnologías: HTML, CSS, JavaScript, Bootstrap, Node.js, Express, Socket.io, Zod, Handlebars, MongoDB, Mongoose, Git, GitHub, VS Code</title>
+  <defs>
+    <filter id="blur" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="55"/></filter>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#ffffff" opacity=".07"/>
+    </pattern>
+    <clipPath id="card"><rect width="1000" height="314" rx="22"/></clipPath>
+  </defs>
+  <style>
+    .sans { font-family: "Inter", "Segoe UI", system-ui, -apple-system, "Helvetica Neue", Arial, sans-serif; }
+    .mono { font-family: "JetBrains Mono", "SFMono-Regular", Menlo, Consolas, "Liberation Mono", monospace; }
+    .chip { opacity: 0; animation: pop .9s cubic-bezier(.2,.7,.2,1) forwards; }
+    @keyframes pop { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: translateY(0); } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } .chip { opacity: 1; } }
+  </style>
+  <g clip-path="url(#card)">
+    <rect width="1000" height="314" fill="#0b0b14"/>
+    <g filter="url(#blur)">
+      <circle cx="930" cy="30" r="110" fill="#8b7bff" opacity=".3"/>
+      <circle cx="80" cy="314" r="100" fill="#ff7ab6" opacity=".2"/>
+    </g>
+    <rect width="1000" height="314" fill="url(#dots)"/>
+        <text class="mono" x="44" y="80" font-size="12.5" fill="#5ad1e6" letter-spacing="2.5" font-weight="600">FRONTEND</text>
+    <g class="chip" style="animation-delay:0.10s"><rect x="230" y="56" width="88" height="36" rx="18" fill="#ffffff" fill-opacity=".045" stroke="#ffffff" stroke-opacity=".14"/><circle cx="249" cy="74" r="3.5" fill="#5ad1e6"/><text class="sans" x="261" y="79" font-size="15" font-weight="500" fill="#e7e5ff">HTML5</text></g>
+    <g class="chip" style="animation-delay:0.19s"><rect x="330" y="56" width="80" height="36" rx="18" fill="#ffffff" fill-opacity=".045" stroke="#ffffff" stroke-opacity=".14"/><circle cx="350" cy="74" r="3.5" fill="#5ad1e6"/><text class="sans" x="362" y="79" font-size="15" font-weight="500" fill="#e7e5ff">CSS3</text></g>
+    <g class="chip" style="animation-delay:0.28s"><rect x="422" y="56" width="133" height="36" rx="18" fill="#ffffff" fill-opacity=".045" stroke="#ffffff" stroke-opacity=".14"/><circle cx="441" cy="74" r="3.5" fill="#5ad1e6"/><text class="sans" x="453" y="79" font-size="15" font-weight="500" fill="#e7e5ff">JavaScript</text></g>
+    <g class="chip" style="animation-delay:0.37s"><rect x="567" y="56" width="142" height="36" rx="18" fill="#ffffff" fill-opacity=".045" stroke="#ffffff" stroke-opacity=".14"/><circle cx="586" cy="74" r="3.5" fill="#5ad1e6"/><text class="sans" x="598" y="79" font-size="15" font-weight="500" fill="#e7e5ff">Bootstrap 5</text></g>
+    <text class="mono" x="44" y="140" font-size="12.5" fill="#5bd68a" letter-spacing="2.5" font-weight="600">BACKEND</text>
+    <g class="chip" style="animation-delay:0.46s"><rect x="230" y="116" width="106" height="36" rx="18" fill="#ffffff" fill-opacity=".045" stroke="#ffffff" stroke-opacity=".14"/><circle cx="249" cy="134" r="3.5" fill="#5bd68a"/><text class="sans" x="261" y="139" font-size="15" font-weight="500" fill="#e7e5ff">Node.js</text></g>
+    <g class="chip" style="animation-delay:0.55s"><rect x="348" y="116" width="106" height="36" rx="18" fill="#ffffff" fill-opacity=".045" stroke="#ffffff" stroke-opacity=".14"/><circle cx="367" cy="134" r="3.5" fill="#5bd68a"/><text class="sans" x="379" y="139" font-size="15" font-weight="500" fill="#e7e5ff">Express</text></g>
+    <g class="chip" style="animation-delay:0.64s"><rect x="467" y="116" width="115" height="36" rx="18" fill="#ffffff" fill-opacity=".045" stroke="#ffffff" stroke-opacity=".14"/><circle cx="486" cy="134" r="3.5" fill="#5bd68a"/><text class="sans" x="498" y="139" font-size="15" font-weight="500" fill="#e7e5ff">API REST</text></g>
+    <g class="chip" style="animation-delay:0.73s"><rect x="594" y="116" width="124" height="36" rx="18" fill="#ffffff" fill-opacity=".045" stroke="#ffffff" stroke-opacity=".14"/><circle cx="613" cy="134" r="3.5" fill="#5bd68a"/><text class="sans" x="625" y="139" font-size="15" font-weight="500" fill="#e7e5ff">Socket.io</text></g>
+    <g class="chip" style="animation-delay:0.82s"><rect x="730" y="116" width="71" height="36" rx="18" fill="#ffffff" fill-opacity=".045" stroke="#ffffff" stroke-opacity=".14"/><circle cx="749" cy="134" r="3.5" fill="#5bd68a"/><text class="sans" x="761" y="139" font-size="15" font-weight="500" fill="#e7e5ff">Zod</text></g>
+    <g class="chip" style="animation-delay:0.91s"><rect x="813" y="116" width="133" height="36" rx="18" fill="#ffffff" fill-opacity=".045" stroke="#ffffff" stroke-opacity=".14"/><circle cx="832" cy="134" r="3.5" fill="#5bd68a"/><text class="sans" x="844" y="139" font-size="15" font-weight="500" fill="#e7e5ff">Handlebars</text></g>
+    <text class="mono" x="44" y="200" font-size="12.5" fill="#ff7ab6" letter-spacing="2.5" font-weight="600">DATOS</text>
+    <g class="chip" style="animation-delay:1.00s"><rect x="230" y="176" width="160" height="36" rx="18" fill="#ffffff" fill-opacity=".045" stroke="#ffffff" stroke-opacity=".14"/><circle cx="249" cy="194" r="3.5" fill="#ff7ab6"/><text class="sans" x="261" y="199" font-size="15" font-weight="500" fill="#e7e5ff">MongoDB Atlas</text></g>
+    <g class="chip" style="animation-delay:1.09s"><rect x="402" y="176" width="115" height="36" rx="18" fill="#ffffff" fill-opacity=".045" stroke="#ffffff" stroke-opacity=".14"/><circle cx="421" cy="194" r="3.5" fill="#ff7ab6"/><text class="sans" x="433" y="199" font-size="15" font-weight="500" fill="#e7e5ff">Mongoose</text></g>
+    <text class="mono" x="44" y="260" font-size="12.5" fill="#ffc15e" letter-spacing="2.5" font-weight="600">HERRAMIENTAS</text>
+    <g class="chip" style="animation-delay:1.18s"><rect x="230" y="236" width="71" height="36" rx="18" fill="#ffffff" fill-opacity=".045" stroke="#ffffff" stroke-opacity=".14"/><circle cx="249" cy="254" r="3.5" fill="#ffc15e"/><text class="sans" x="261" y="259" font-size="15" font-weight="500" fill="#e7e5ff">Git</text></g>
+    <g class="chip" style="animation-delay:1.27s"><rect x="313" y="236" width="97" height="36" rx="18" fill="#ffffff" fill-opacity=".045" stroke="#ffffff" stroke-opacity=".14"/><circle cx="332" cy="254" r="3.5" fill="#ffc15e"/><text class="sans" x="344" y="259" font-size="15" font-weight="500" fill="#e7e5ff">GitHub</text></g>
+    <g class="chip" style="animation-delay:1.36s"><rect x="422" y="236" width="106" height="36" rx="18" fill="#ffffff" fill-opacity=".045" stroke="#ffffff" stroke-opacity=".14"/><circle cx="441" cy="254" r="3.5" fill="#ffc15e"/><text class="sans" x="453" y="259" font-size="15" font-weight="500" fill="#e7e5ff">VS Code</text></g>
+  </g>
+</svg>
