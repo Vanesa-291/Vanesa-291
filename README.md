@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" alt="Vanesa Feris — Desarrolladora Junior, de Frontend a Full Stack" width="100%"/>
+<img src="assets/header.svg" alt="Vanesa Feris — Desarrolladora Frontend, creciendo hacia Full Stack" width="100%"/>
 
 <br/><br/>
 
@@ -12,11 +12,11 @@
 
 ## Sobre mí
 
-Soy desarrolladora junior de **Mendoza, Argentina**. Empecé en el frontend (HTML, CSS y JavaScript) y hoy estoy dando el salto hacia **Full Stack**: estudio desarrollo backend con **Node.js, Express y MongoDB**.
+Soy desarrolladora frontend de **Mendoza, Argentina**. Hace 3 años trabajo con HTML, CSS y JavaScript, y hoy estoy dando el salto hacia **Full Stack**: estudio desarrollo backend con **Node.js, Express y MongoDB**.
 
 Me gusta construir cosas que funcionen de punta a punta: una interfaz clara, una API ordenada y una base de datos bien modelada.
 
-> *English: Junior developer from Argentina moving from Frontend to Full Stack, building REST APIs with Node.js, Express and MongoDB.*
+> *English: Frontend developer from Argentina with 3 years of experience, moving to Full Stack and building REST APIs with Node.js, Express and MongoDB.*
 
 ## Tecnologías
 
